@@ -31,5 +31,5 @@ python AI_bot.py
 ```
 
 ## 📖 Cách sử dụng
-Gõ nội dung bạn muốn hỏi và nhấn Enter.
-Gõ exit để thoát chương trình.
+- Gõ nội dung bạn muốn hỏi và nhấn Enter.
+- Gõ exit để thoát chương trình.
