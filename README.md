@@ -9,8 +9,8 @@ Dự án chatbot đơn giản giúp bạn trò chuyện với các mô hình ng�
 
 ## 🛠 Yêu cầu hệ thống
 1. **Ollama:** Đã cài đặt và đang chạy tại `localhost:11434`.
-2. **Model:** Đã tải model (Ví dụ: `gemma3:1b`).
-3. **Python:** Phiên bản 3.x.
+2. **Model:** Đã tải model `gemma3:1b`.
+3. **Python:** Phiên bản 3.10.0
 
 ## 🚀 Hướng dẫn cài đặt
 
